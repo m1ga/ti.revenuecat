@@ -1,0 +1,6 @@
+
+dependencies {
+	// Add the module's library dependencies here.
+	// See:  https://developer.android.com/studio/build/dependencies
+	implementation 'com.revenuecat.purchases:purchases:5.4.1'
+}
